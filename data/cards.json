@@ -1,0 +1,3169 @@
+[
+  {
+    "id": "elf_0",
+    "name": "舞動的妖精",
+    "class": "精靈",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/elf_0.png"
+  },
+  {
+    "id": "elf_1",
+    "name": "戀觸妖精",
+    "class": "精靈",
+    "rarity": "銅",
+    "cost": 3,
+    "image": "assets/images/elf_1.png"
+  },
+   {
+    "id": "elf_2",
+    "name": "深奧的妖精守護聖獸",
+    "class": "精靈",
+    "rarity": "銅",
+    "cost": 8,
+    "image": "assets/images/elf_2.png"
+  },
+  {
+    "id": "elf_3",
+    "name": "勤勞的蚱蜢",
+    "class": "精靈",
+    "rarity": "銅",
+    "cost": 3,
+    "image": "assets/images/elf_3.png"
+  },
+  {
+    "id": "elf_4",
+    "name": "言傳的草人長老",
+    "class": "精靈",
+    "rarity": "銅",
+    "cost": 4,
+    "image": "assets/images/elf_4.png"
+  },
+   {
+    "id": "elf_5",
+    "name": "召集妖精",
+    "class": "精靈",
+    "rarity": "銅",
+    "cost": 1,
+    "image": "assets/images/elf_5.png"
+  },
+  {
+    "id": "elf_6",
+    "name": "寒霜冰晶‧艾琳",
+    "class": "精靈",
+    "rarity": "銀",
+    "cost": 7,
+    "image": "assets/images/elf_6.png"
+  },
+   {
+    "id": "elf_7",
+    "name": "純真的水之妖精",
+    "class": "精靈",
+    "rarity": "銀",
+    "cost": 1,
+    "image": "assets/images/elf_7.png"
+  },
+   {
+    "id": "elf_8",
+    "name": "幼年寶石獸",
+    "class": "精靈",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/elf_8.png"
+  },
+   {
+    "id": "elf_9",
+    "name": "磷光輝岩",
+    "class": "精靈",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/elf_9.png"
+  },
+   {
+    "id": "elf_10",
+    "name": "薰交的敬慕",
+    "class": "精靈",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/elf_10.png"
+  },
+   {
+    "id": "elf_11",
+    "name": "純潔冰晶‧莉莉",
+    "class": "精靈",
+    "rarity": "金",
+    "cost": 2,
+    "image": "assets/images/elf_11.png"
+  },
+    {
+    "id": "elf_12",
+    "name": "薰交天宮‧巴克伍德",
+    "class": "精靈",
+    "rarity": "金",
+    "cost": 5,
+    "image": "assets/images/elf_12.png"
+  },
+    {
+    "id": "elf_13",
+    "name": "煌擊戰士‧貝魯",
+    "class": "精靈",
+    "rarity": "金",
+    "cost": 8,
+    "image": "assets/images/elf_13.png"
+  },
+    {
+    "id": "elf_14",
+    "name": "殺戮破魔蟲",
+    "class": "精靈",
+    "rarity": "金",
+    "cost": 3,
+    "image": "assets/images/elf_14.png"
+  },
+    {
+    "id": "elf_15",
+    "name": "聖樹權杖",
+    "class": "精靈",
+    "rarity": "金",
+    "cost": 3,
+    "image": "assets/images/elf_15.png"
+  },
+    {
+    "id": "elf_16",
+    "name": "自然界的妖精公主‧阿麗雅",
+    "class": "精靈",
+    "rarity": "虹",
+    "cost": 6,
+    "image": "assets/images/elf_16.png"
+  },
+      {
+    "id": "elf_17",
+    "name": "豔麗的玫瑰皇后",
+    "class": "精靈",
+    "rarity": "虹",
+    "cost": 9,
+    "image": "assets/images/elf_17.png"
+  },
+      {
+    "id": "elf_18",
+    "name": "新生劍師‧阿瑪茲",
+    "class": "精靈",
+    "rarity": "虹",
+    "cost": 3,
+    "image": "assets/images/elf_18.png"
+  },
+  {
+    "id": "Nightmare_001",
+    "name": "午夜的吸血鬼‧艾菈露",
+    "class": "夜魔",
+    "rarity": "銅",
+    "cost": 3,
+    "image": "assets/images/Nightmare_001.png"
+  },
+{
+    "id": "Nightmare_002",
+    "name": "無名惡魔",
+    "class": "夜魔",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/Nightmare_002.png"
+  },
+{
+    "id": "Nightmare_003",
+    "name": "役骨少女",
+    "class": "夜魔",
+    "rarity": "銅",
+    "cost": 3,
+    "image": "assets/images/Nightmare_003.png"
+  },
+{
+    "id": "Nightmare_004",
+    "name": "雜技亡魂",
+    "class": "夜魔",
+    "rarity": "銅",
+    "cost": 6,
+    "image": "assets/images/Nightmare_004.png"
+  },
+{
+    "id": "Nightmare_005",
+    "name": "禁約惡魔",
+    "class": "夜魔",
+    "rarity": "銅",
+    "cost": 5,
+    "image": "assets/images/Nightmare_005.png"
+  },
+{
+    "id": "Nightmare_006",
+    "name": "死神揮鐮",
+    "class": "夜魔",
+    "rarity": "銅",
+    "cost": 1,
+    "image": "assets/images/Nightmare_006.png"
+  },
+{
+    "id": "Nightmare_007",
+    "name": "幹練死神‧蜜諾",
+    "class": "夜魔",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/Nightmare_007.png"
+  },
+{
+    "id": "Nightmare_008",
+    "name": "夢魔‧維莉",
+    "class": "夜魔",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/Nightmare_008.png"
+  },
+{
+    "id": "Nightmare_009",
+    "name": "奇異探索者‧尤娜",
+    "class": "夜魔",
+    "rarity": "銀",
+    "cost": 4,
+    "image": "assets/images/Nightmare_009.png"
+  },
+{
+    "id": "Nightmare_010",
+    "name": "穿刺公‧弗拉德",
+    "class": "夜魔",
+    "rarity": "銀",
+    "cost": 8,
+    "image": "assets/images/Nightmare_010.png"
+  },
+{
+    "id": "Nightmare_011",
+    "name": "瞑地的靈園",
+    "class": "夜魔",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/Nightmare_011.png"
+  },
+{
+    "id": "Nightmare_012",
+    "name": "藍薔薇千金‧賽蕾絲",
+    "class": "夜魔",
+    "rarity": "金",
+    "cost": 4,
+    "image": "assets/images/Nightmare_012.png"
+  },
+{
+    "id": "Nightmare_013",
+    "name": "盛燃的魔劍‧歐特魯斯",
+    "class": "夜魔",
+    "rarity": "金",
+    "cost": 2,
+    "image": "assets/images/Nightmare_013.png"
+  },
+{
+    "id": "Nightmare_014",
+    "name": "瞑地天宮‧穆坎",
+    "class": "夜魔",
+    "rarity": "金",
+    "cost": 4,
+    "image": "assets/images/Nightmare_014.png"
+  },
+{
+    "id": "Nightmare_015",
+    "name": "法外的賞金獵人‧巴爾特",
+    "class": "夜魔",
+    "rarity": "金",
+    "cost": 3,
+    "image": "assets/images/Nightmare_015.png"
+  },
+{
+    "id": "Nightmare_016",
+    "name": "蛇神的嗔怒",
+    "class": "夜魔",
+    "rarity": "金",
+    "cost": 2,
+    "image": "assets/images/Nightmare_016.png"
+  },
+{
+    "id": "Nightmare_017",
+    "name": "奔放的獄炎‧凱爾貝洛斯",
+    "class": "夜魔",
+    "rarity": "虹",
+    "cost": 8,
+    "image": "assets/images/Nightmare_017.png"
+  },
+{
+    "id": "Nightmare_018",
+    "name": "烈毒公主‧梅杜莎",
+    "class": "夜魔",
+    "rarity": "虹",
+    "cost": 7,
+    "image": "assets/images/Nightmare_018.png"
+  },
+{
+    "id": "Nightmare_019",
+    "name": "無盡獵人‧阿拉加維",
+    "class": "夜魔",
+    "rarity": "虹",
+    "cost": 5,
+    "image": "assets/images/Nightmare_019.png"
+  },
+  {
+    "id": "neutral_0",
+    "name": "貪婪的智天使‧露比",
+    "class": "中立",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/neutral_0.png"
+  },
+
+{
+    "id": "neutral_1",
+    "name": "觀察的偵探",
+    "class": "中立",
+    "rarity": "銅",
+    "cost": 3,
+    "image": "assets/images/neutral_1.png"
+  },
+
+{
+    "id": "neutral_2",
+    "name": "哥布林的襲擊",
+    "class": "中立",
+    "rarity": "銅",
+    "cost": 5,
+    "image": "assets/images/neutral_2.png"
+  },
+
+{
+    "id": "neutral_3",
+    "name": "飛馳的光明‧阿波羅",
+    "class": "中立",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/neutral_3.png"
+  },
+
+{
+    "id": "neutral_4",
+    "name": "熾天使的福音",
+    "class": "中立",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/neutral_4.png"
+  },
+
+{
+    "id": "neutral_5",
+    "name": "樂朗天宮‧斐爾特亞",
+    "class": "中立",
+    "rarity": "金",
+    "cost": 2,
+    "image": "assets/images/neutral_5.png"
+  },
+
+{
+    "id": "neutral_6",
+    "name": "神之雷霆",
+    "class": "中立",
+    "rarity": "金",
+    "cost": 4,
+    "image": "assets/images/neutral_6.png"
+  },
+
+{
+    "id": "neutral_7",
+    "name": "毅勇的墮天使‧奧莉薇",
+    "class": "中立",
+    "rarity": "虹",
+    "cost": 7,
+    "image": "assets/images/neutral_7.png"
+  },
+
+{
+    "id": "neutral_8",
+    "name": "終末之罪‧撒旦",
+    "class": "中立",
+    "rarity": "虹",
+    "cost": 10,
+    "image": "assets/images/neutral_8.png"
+  },
+  {
+    "id": "Bishop_001",
+    "name": "聖心之光稜牧師",
+    "class": "主教",
+    "rarity": "銅",
+    "cost": 3,
+    "image": "assets/images/Bishop_001.png"
+  },
+{
+    "id": "Bishop_002",
+    "name": "聖盾神官",
+    "class": "主教",
+    "rarity": "銅",
+    "cost": 3,
+    "image": "assets/images/Bishop_002.png"
+  },
+{
+    "id": "Bishop_003",
+    "name": "給予指引的光輝天使",
+    "class": "主教",
+    "rarity": "銅",
+    "cost": 5,
+    "image": "assets/images/Bishop_003.png"
+  },
+{
+    "id": "Bishop_004",
+    "name": "潛伏的曼紐",
+    "class": "主教",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/Bishop_004.png"
+  },
+{
+    "id": "Bishop_005",
+    "name": "平靜的教會",
+    "class": "主教",
+    "rarity": "銅",
+    "cost": 1,
+    "image": "assets/images/Bishop_005.png"
+  },
+{
+    "id": "Bishop_006",
+    "name": "銳羽四射",
+    "class": "主教",
+    "rarity": "銅",
+    "cost": 6,
+    "image": "assets/images/Bishop_006.png"
+  },
+{
+    "id": "Bishop_007",
+    "name": "煌槍月兔妖‧薩莉沙",
+    "class": "主教",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/Bishop_007.png"
+  },
+{
+    "id": "Bishop_008",
+    "name": "煌羽翼族‧莉諾",
+    "class": "主教",
+    "rarity": "銀",
+    "cost": 4,
+    "image": "assets/images/Bishop_008.png"
+  },
+{
+    "id": "Bishop_009",
+    "name": "大地守護神‧宓唯",
+    "class": "主教",
+    "rarity": "銀",
+    "cost": 7,
+    "image": "assets/images/Bishop_009.png"
+  },
+{
+    "id": "Bishop_010",
+    "name": "禁密的聖地",
+    "class": "主教",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/Bishop_010.png"
+  },
+{
+    "id": "Bishop_011",
+    "name": "聖潔注射",
+    "class": "主教",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/Bishop_011.png"
+  },
+{
+    "id": "Bishop_012",
+    "name": "終焉之白骨聖堂教主",
+    "class": "主教",
+    "rarity": "金",
+    "cost": 6,
+    "image": "assets/images/Bishop_012.png"
+  },
+{
+    "id": "Bishop_013",
+    "name": "禁密天宮‧羅納威洛",
+    "class": "主教",
+    "rarity": "金",
+    "cost": 4,
+    "image": "assets/images/Bishop_013.png"
+  },
+{
+    "id": "Bishop_014",
+    "name": "崇高的熾天使‧勒碧絲",
+    "class": "主教",
+    "rarity": "金",
+    "cost": 8,
+    "image": "assets/images/Bishop_014.png"
+  },
+{
+    "id": "Bishop_015",
+    "name": "野獸公主的誓約",
+    "class": "主教",
+    "rarity": "金",
+    "cost": 2,
+    "image": "assets/images/Bishop_015.png"
+  },
+{
+    "id": "Bishop_016",
+    "name": "邪教之器",
+    "class": "主教",
+    "rarity": "金",
+    "cost": 6,
+    "image": "assets/images/Bishop_016.png"
+  },
+{
+    "id": "Bishop_017",
+    "name": "裁決的弒滅者‧羅德歐",
+    "class": "主教",
+    "rarity": "虹",
+    "cost": 7,
+    "image": "assets/images/Bishop_017.png"
+  },
+{
+    "id": "Bishop_018",
+    "name": "純白聖女‧貞德",
+    "class": "主教",
+    "rarity": "虹",
+    "cost": 8,
+    "image": "assets/images/Bishop_018.png"
+  },
+{
+    "id": "Bishop_019",
+    "name": "水之守護神‧莎蕾樺",
+    "class": "主教",
+    "rarity": "虹",
+    "cost": 5,
+    "image": "assets/images/Bishop_019.png"
+  },
+  {
+    "id": "nemesis_0",
+    "name": "熱忱的發明家‧伊俐思",
+    "class": "復仇者",
+    "rarity": "銅",
+    "cost": 1,
+    "image": "assets/images/nemesis_0.png"
+  },
+
+{
+    "id": "nemesis_1",
+    "name": "鋼鐵傭兵‧迪爾克",
+    "class": "復仇者",
+    "rarity": "銅",
+    "cost": 5,
+    "image": "assets/images/nemesis_1.png"
+  },
+
+{
+    "id": "nemesis_2",
+    "name": "永彈槍手",
+    "class": "復仇者",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/nemesis_2.png"
+  },
+
+{
+    "id": "nemesis_3",
+    "name": "機偶暗殺者",
+    "class": "復仇者",
+    "rarity": "銅",
+    "cost": 3,
+    "image": "assets/images/nemesis_3.png"
+  },
+
+{
+    "id": "nemesis_4",
+    "name": "人偶替身術",
+    "class": "復仇者",
+    "rarity": "銅",
+    "cost": 3,
+    "image": "assets/images/nemesis_4.png"
+  },
+
+{
+    "id": "nemesis_5",
+    "name": "創造物的蓄能",
+    "class": "復仇者",
+    "rarity": "銅",
+    "cost": 1,
+    "image": "assets/images/nemesis_5.png"
+  },
+
+{
+    "id": "nemesis_6",
+    "name": "奮戰領袖‧露琪娜",
+    "class": "復仇者",
+    "rarity": "銀",
+    "cost": 4,
+    "image": "assets/images/nemesis_6.png"
+  },
+
+{
+    "id": "nemesis_7",
+    "name": "執愛的操偶師",
+    "class": "復仇者",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/nemesis_7.png"
+  },
+
+{
+    "id": "nemesis_8",
+    "name": "殺意的絲線‧諾亞",
+    "class": "復仇者",
+    "rarity": "銀",
+    "cost": 6,
+    "image": "assets/images/nemesis_8.png"
+  },
+
+{
+    "id": "nemesis_9",
+    "name": "生命的奔流",
+    "class": "復仇者",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/nemesis_9.png"
+  },
+
+{
+    "id": "nemesis_10",
+    "name": "改境的重啟",
+    "class": "復仇者",
+    "rarity": "銀",
+    "cost": 5,
+    "image": "assets/images/nemesis_10.png"
+  },
+
+{
+    "id": "nemesis_11",
+    "name": "決意之志‧米莉亞姆",
+    "class": "復仇者",
+    "rarity": "金",
+    "cost": 3,
+    "image": "assets/images/nemesis_11.png"
+  },
+
+{
+    "id": "nemesis_12",
+    "name": "箱庭斷罪者‧希爾薇婭",
+    "class": "復仇者",
+    "rarity": "金",
+    "cost": 6,
+    "image": "assets/images/nemesis_12.png"
+  },
+
+{
+    "id": "nemesis_13",
+    "name": "癲狂創造者‧歷亞姆",
+    "class": "復仇者",
+    "rarity": "金",
+    "cost": 9,
+    "image": "assets/images/nemesis_13.png"
+  },
+
+{
+    "id": "nemesis_14",
+    "name": "改境天宮‧亞露愛得",
+    "class": "復仇者",
+    "rarity": "金",
+    "cost": 5,
+    "image": "assets/images/nemesis_14.png"
+  },
+
+{
+    "id": "nemesis_15",
+    "name": "遺產的砲擊",
+    "class": "復仇者",
+    "rarity": "金",
+    "cost": 5,
+    "image": "assets/images/nemesis_15.png"
+  },
+
+{
+    "id": "nemesis_16",
+    "name": "嶄新的少女‧歐絲",
+    "class": "復仇者",
+    "rarity": "虹",
+    "cost": 3,
+    "image": "assets/images/nemesis_16.png"
+  },
+
+{
+    "id": "nemesis_17",
+    "name": "邁步之心‧奧契絲",
+    "class": "復仇者",
+    "rarity": "虹",
+    "cost": 8,
+    "image": "assets/images/nemesis_17.png"
+  },
+
+{
+    "id": "nemesis_18",
+    "name": "凌光星馳‧洛菈米亞",
+    "class": "復仇者",
+    "rarity": "虹",
+    "cost": 8,
+    "image": "assets/images/nemesis_18.png"
+  },
+  {
+    "id": "neutral_9",
+    "name": "雙刃哥布林",
+    "class": "中立",
+    "rarity": "銅",
+    "cost": 1,
+    "image": "assets/images/neutral_9.png"
+  },
+
+{
+    "id": "neutral_10",
+    "name": "反轉互換",
+    "class": "中立",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/neutral_10.png"
+  },
+
+{
+    "id": "neutral_11",
+    "name": "女僕天使‧伽芮塔",
+    "class": "中立",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/neutral_11.png"
+  },
+
+{
+    "id": "neutral_12",
+    "name": "情誼天使‧蕾娜",
+    "class": "中立",
+    "rarity": "金",
+    "cost": 7,
+    "image": "assets/images/neutral_12.png"
+  },
+
+{
+    "id": "neutral_13",
+    "name": "雷火雙神‧福尼加爾＆亞文哈爾",
+    "class": "中立",
+    "rarity": "金",
+    "cost": 2,
+    "image": "assets/images/neutral_13.png"
+  },
+
+{
+    "id": "neutral_14",
+    "name": "命運的黃昏‧奧丁",
+    "class": "中立",
+    "rarity": "虹",
+    "cost": 7,
+    "image": "assets/images/neutral_14.png"
+  },
+
+{
+    "id": "neutral_15",
+    "name": "颶風天技‧格里姆尼爾",
+    "class": "中立",
+    "rarity": "虹",
+    "cost": 3,
+    "image": "assets/images/neutral_15.png"
+  },
+{
+    "id": "neutral_16",
+    "name": "涸絕的使徒",
+    "class": "中立",
+    "rarity": "銅",
+    "cost": 4,
+    "image": "assets/images/neutral_16.png"
+  },
+{
+    "id": "neutral_17",
+    "name": "至高的凌駕",
+    "class": "中立",
+    "rarity": "銅",
+    "cost": 4,
+    "image": "assets/images/neutral_17.png"
+  },
+{
+    "id": "neutral_18",
+    "name": "力抗悲嘆的少年",
+    "class": "中立",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/neutral_18.png"
+  },
+{
+    "id": "neutral_19",
+    "name": "滿懷勇氣的少女",
+    "class": "中立",
+    "rarity": "金",
+    "cost": 3,
+    "image": "assets/images/neutral_19.png"
+  },
+{
+    "id": "neutral_20",
+    "name": "試煉的石板",
+    "class": "中立",
+    "rarity": "金",
+    "cost": 3,
+    "image": "assets/images/neutral_20.png"
+  },
+{
+    "id": "neutral_22",
+    "name": "涸絕的顯現‧吉魯涅莉婕",
+    "class": "中立",
+    "rarity": "虹",
+    "cost": 3,
+    "image": "assets/images/neutral_22.png"
+  },
+  {
+    "id": "neutral_23",
+    "name": "翱翔蒼空的捍衛者‧卡塔莉娜",
+    "class": "中立",
+    "rarity": "銅",
+    "cost": 5,
+    "image": "assets/images/neutral_23.png"
+  },
+{
+    "id": "neutral_24",
+    "name": "惹人憐愛的搭檔‧碧",
+    "class": "中立",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/neutral_24.png"
+  },
+{
+    "id": "neutral_25",
+    "name": "柯絲摩斯的使者‧尤妮",
+    "class": "中立",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/neutral_25.png"
+  },
+{
+    "id": "neutral_26",
+    "name": "邁向蒼空的騎空士‧葛蘭＆吉塔",
+    "class": "中立",
+    "rarity": "金",
+    "cost": 4,
+    "image": "assets/images/neutral_26.png"
+  },
+{
+    "id": "neutral_27",
+    "name": "掌握蒼空命運的少女‧露莉亞",
+    "class": "中立",
+    "rarity": "金",
+    "cost": 2,
+    "image": "assets/images/neutral_27.png"
+  },
+{
+    "id": "neutral_28",
+    "name": "天司長的後繼者‧聖德芬",
+    "class": "中立",
+    "rarity": "虹",
+    "cost": 6,
+    "image": "assets/images/neutral_28.png"
+  },
+  {
+    "id": "Witch_001",
+    "name": "符文劍驅使者",
+    "class": "巫師",
+    "rarity": "銅",
+    "cost": 5,
+    "image": "assets/images/Witch_001.png"
+  },
+{
+    "id": "Witch_002",
+    "name": "見習占星術師",
+    "class": "巫師",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/Witch_002.png"
+  },
+{
+    "id": "Witch_003",
+    "name": "智梟召喚師",
+    "class": "巫師",
+    "rarity": "銅",
+    "cost": 3,
+    "image": "assets/images/Witch_003.png"
+  },
+{
+    "id": "Witch_004",
+    "name": "追夢的企鵝魔法師",
+    "class": "巫師",
+    "rarity": "銅",
+    "cost": 4,
+    "image": "assets/images/Witch_004.png"
+  },
+{
+    "id": "Witch_005",
+    "name": "彩虹奇蹟",
+    "class": "巫師",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/Witch_005.png"
+  },
+{
+    "id": "Witch_006",
+    "name": "暴風噴射",
+    "class": "巫師",
+    "rarity": "銅",
+    "cost": 1,
+    "image": "assets/images/Witch_006.png"
+  },
+{
+    "id": "Witch_007",
+    "name": "嬌美教師‧米蘭",
+    "class": "巫師",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/Witch_007.png"
+  },
+{
+    "id": "Witch_008",
+    "name": "驚奇女巫‧愛蜜兒",
+    "class": "巫師",
+    "rarity": "銀",
+    "cost": 5,
+    "image": "assets/images/Witch_008.png"
+  },
+{
+    "id": "Witch_009",
+    "name": "馬納歷亞學子‧威廉",
+    "class": "巫師",
+    "rarity": "銀",
+    "cost": 6,
+    "image": "assets/images/Witch_009.png"
+  },
+{
+    "id": "Witch_010",
+    "name": "理光的證明",
+    "class": "巫師",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/Witch_010.png"
+  },
+{
+    "id": "Witch_011",
+    "name": "冰雪覺醒",
+    "class": "巫師",
+    "rarity": "銀",
+    "cost": 8,
+    "image": "assets/images/Witch_011.png"
+  },
+{
+    "id": "Witch_012",
+    "name": "拂曉鍊金術師‧諾諾",
+    "class": "巫師",
+    "rarity": "金",
+    "cost": 5,
+    "image": "assets/images/Witch_012.png"
+  },
+{
+    "id": "Witch_013",
+    "name": "魔法藥劑師‧蓓妮露佩",
+    "class": "巫師",
+    "rarity": "金",
+    "cost": 2,
+    "image": "assets/images/Witch_013.png"
+  },
+{
+    "id": "Witch_014",
+    "name": "理光天宮‧愛蒂倫瓦思",
+    "class": "巫師",
+    "rarity": "金",
+    "cost": 4,
+    "image": "assets/images/Witch_014.png"
+  },
+{
+    "id": "Witch_015",
+    "name": "要完成課題！",
+    "class": "巫師",
+    "rarity": "金",
+    "cost": 3,
+    "image": "assets/images/Witch_015.png"
+  },
+{
+    "id": "Witch_016",
+    "name": "喚鬼之術",
+    "class": "巫師",
+    "rarity": "金",
+    "cost": 7,
+    "image": "assets/images/Witch_016.png"
+  },
+{
+    "id": "Witch_017",
+    "name": "五行巔峰‧久苑",
+    "class": "巫師",
+    "rarity": "虹",
+    "cost": 7,
+    "image": "assets/images/Witch_017.png"
+  },
+{
+    "id": "Witch_018",
+    "name": "馬納歷亞的親愛摯友‧安＆古蕾婭",
+    "class": "巫師",
+    "rarity": "虹",
+    "cost": 5,
+    "image": "assets/images/Witch_018.png"
+  },
+{
+    "id": "Witch_019",
+    "name": "飛越次元",
+    "class": "巫師",
+    "rarity": "虹",
+    "cost": 18,
+    "image": "assets/images/Witch_019.png"
+  },
+  {
+    "id": "elf_19",
+    "name": "野性少女",
+    "class": "精靈",
+    "rarity": "銅",
+    "cost": 3,
+    "image": "assets/images/elf_19.png"
+  },
+{
+    "id": "elf_20",
+    "name": "木槌矮人",
+    "class": "精靈",
+    "rarity": "銅",
+    "cost": 5,
+    "image": "assets/images/elf_20.png"
+  },
+{
+    "id": "elf_21",
+    "name": "森林的行進",
+    "class": "精靈",
+    "rarity": "銅",
+    "cost": 7,
+    "image": "assets/images/elf_21.png"
+  },
+{
+    "id": "elf_22",
+    "name": "狂熱精靈‧萊昂內爾",
+    "class": "精靈",
+    "rarity": "銀",
+    "cost": 6,
+    "image": "assets/images/elf_22.png"
+  },
+  {
+    "id": "elf_23",
+    "name": "妖精劍客",
+    "class": "精靈",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/elf_23.png"
+  },
+  {
+    "id": "elf_24",
+    "name": "來自樹上的突襲",
+    "class": "精靈",
+    "rarity": "銀",
+    "cost": 1,
+    "image": "assets/images/elf_24.png"
+  },
+  {
+    "id": "elf_25",
+    "name": "森林的騎士精神‧辛西亞",
+    "class": "精靈",
+    "rarity": "金",
+    "cost": 4,
+    "image": "assets/images/elf_25.png"
+  },
+  {
+    "id": "elf_26",
+    "name": "花園的導引",
+    "class": "精靈",
+    "rarity": "金",
+    "cost": 2,
+    "image": "assets/images/elf_26.png"
+  },
+  {
+    "id": "elf_27",
+    "name": "羽翅女王‧提泰妮婭",
+    "class": "精靈",
+    "rarity": "虹",
+    "cost": 4,
+    "image": "assets/images/elf_27.png"
+  },
+  {
+    "id": "elf_28",
+    "name": "纏枝密林‧麗梅格",
+    "class": "精靈",
+    "rarity": "虹",
+    "cost": 7,
+    "image": "assets/images/elf_28.png"
+  },
+  {
+    "id": "Royal_001",
+    "name": "愛之騎士‧尹安",
+    "class": "皇家",
+    "rarity": "銅",
+    "cost": 3,
+    "image": "assets/images/Royal_001.png"
+  },
+{
+    "id": "Royal_002",
+    "name": "和平商販‧艾爾涅絲塔",
+    "class": "皇家",
+    "rarity": "銅",
+    "cost": 6,
+    "image": "assets/images/Royal_002.png"
+  },
+{
+    "id": "Royal_003",
+    "name": "救援的魯米那斯治療師‧琍菈菈",
+    "class": "皇家",
+    "rarity": "銅",
+    "cost": 3,
+    "image": "assets/images/Royal_003.png"
+  },
+{
+    "id": "Royal_004",
+    "name": "軍犬",
+    "class": "皇家",
+    "rarity": "銅",
+    "cost": 3,
+    "image": "assets/images/Royal_004.png"
+  },
+{
+    "id": "Royal_005",
+    "name": "異端武士",
+    "class": "皇家",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/Royal_005.png"
+  },
+{
+    "id": "Royal_006",
+    "name": "劍士的斬擊",
+    "class": "皇家",
+    "rarity": "銅",
+    "cost": 4,
+    "image": "assets/images/Royal_006.png"
+  },
+{
+    "id": "Royal_007",
+    "name": "統率的魯米那斯騎士",
+    "class": "皇家",
+    "rarity": "銀",
+    "cost": 1,
+    "image": "assets/images/Royal_007.png"
+  },
+{
+    "id": "Royal_008",
+    "name": "卓越的魯米那斯法師",
+    "class": "皇家",
+    "rarity": "銀",
+    "cost": 5,
+    "image": "assets/images/Royal_008.png"
+  },
+{
+    "id": "Royal_009",
+    "name": "勇猛的魯米那斯槍士",
+    "class": "皇家",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/Royal_009.png"
+  },
+{
+    "id": "Royal_010",
+    "name": "忍者鼯鼠",
+    "class": "皇家",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/Royal_010.png"
+  },
+{
+    "id": "Royal_011",
+    "name": "王斷的威光",
+    "class": "皇家",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/Royal_011.png"
+  },
+{
+    "id": "Royal_012",
+    "name": "雷維翁戰斧‧傑諾",
+    "class": "皇家",
+    "rarity": "金",
+    "cost": 7,
+    "image": "assets/images/Royal_012.png"
+  },
+{
+    "id": "Royal_013",
+    "name": "寂靜狙擊手‧瓦路茲",
+    "class": "皇家",
+    "rarity": "金",
+    "cost": 3,
+    "image": "assets/images/Royal_013.png"
+  },
+{
+    "id": "Royal_014",
+    "name": "王斷天宮‧絲塔琪茉",
+    "class": "皇家",
+    "rarity": "金",
+    "cost": 4,
+    "image": "assets/images/Royal_014.png"
+  },
+{
+    "id": "Royal_015",
+    "name": "煌刃勇者‧阿瑪莉雅",
+    "class": "皇家",
+    "rarity": "金",
+    "cost": 8,
+    "image": "assets/images/Royal_015.png"
+  },
+{
+    "id": "Royal_016",
+    "name": "觸手咬擊",
+    "class": "皇家",
+    "rarity": "金",
+    "cost": 7,
+    "image": "assets/images/Royal_016.png"
+  },
+{
+    "id": "Royal_017",
+    "name": "雷維翁迅雷‧阿爾貝爾",
+    "class": "皇家",
+    "rarity": "虹",
+    "cost": 5,
+    "image": "assets/images/Royal_017.png"
+  },
+{
+    "id": "Royal_018",
+    "name": "白銀騎士團長‧艾蜜莉亞",
+    "class": "皇家",
+    "rarity": "虹",
+    "cost": 6,
+    "image": "assets/images/Royal_018.png"
+  },
+{
+    "id": "Royal_019",
+    "name": "備戰不息‧景光",
+    "class": "皇家",
+    "rarity": "虹",
+    "cost": 3,
+    "image": "assets/images/Royal_019.png"
+  },
+  {
+    "id": "nemesis_19",
+    "name": "機刃劍士",
+    "class": "復仇者",
+    "rarity": "銅",
+    "cost": 6,
+    "image": "assets/images/nemesis_19.png"
+  },
+
+{
+    "id": "nemesis_20",
+    "name": "線偶貓",
+    "class": "復仇者",
+    "rarity": "銅",
+    "cost": 1,
+    "image": "assets/images/nemesis_20.png"
+  },
+
+{
+    "id": "nemesis_21",
+    "name": "創造物彈射裝置",
+    "class": "復仇者",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/nemesis_21.png"
+  },
+
+{
+    "id": "nemesis_22",
+    "name": "無心虐殺者‧菲亞",
+    "class": "復仇者",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/nemesis_22.png"
+  },
+
+{
+    "id": "nemesis_23",
+    "name": "絕望君主‧阿紀摩",
+    "class": "復仇者",
+    "rarity": "銀",
+    "cost": 5,
+    "image": "assets/images/nemesis_23.png"
+  },
+
+{
+    "id": "nemesis_24",
+    "name": "伊卡洛斯的飛翔",
+    "class": "復仇者",
+    "rarity": "銀",
+    "cost": 1,
+    "image": "assets/images/nemesis_24.png"
+  },
+
+{
+    "id": "nemesis_25",
+    "name": "暗獄殘光‧賈絲珀",
+    "class": "復仇者",
+    "rarity": "金",
+    "cost": 2,
+    "image": "assets/images/nemesis_25.png"
+  },
+
+{
+    "id": "nemesis_26",
+    "name": "擁心共鬥",
+    "class": "復仇者",
+    "rarity": "金",
+    "cost": 6,
+    "image": "assets/images/nemesis_26.png"
+  },
+
+{
+    "id": "nemesis_27",
+    "name": "交響之心‧枷薇",
+    "class": "復仇者",
+    "rarity": "虹",
+    "cost": 5,
+    "image": "assets/images/nemesis_27.png"
+  },
+
+{
+    "id": "nemesis_28",
+    "name": "心魂武藝‧迦爾拉",
+    "class": "復仇者",
+    "rarity": "虹",
+    "cost": 6,
+    "image": "assets/images/nemesis_28.png"
+  },
+  {
+    "id": "nemesis_29",
+    "name": "破壞的肯定者",
+    "class": "復仇者",
+    "rarity": "銅",
+    "cost": 4,
+    "image": "assets/images/nemesis_29.png"
+  },
+
+{
+    "id": "nemesis_30",
+    "name": "音速的飛行兵",
+    "class": "復仇者",
+    "rarity": "銅",
+    "cost": 7,
+    "image": "assets/images/nemesis_30.png"
+  },
+
+{
+    "id": "nemesis_31",
+    "name": "躍線狂襲",
+    "class": "復仇者",
+    "rarity": "銅",
+    "cost": 4,
+    "image": "assets/images/nemesis_31.png"
+  },
+
+{
+    "id": "nemesis_32",
+    "name": "破壞的祈禱者",
+    "class": "復仇者",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/nemesis_32.png"
+  },
+
+{
+    "id": "nemesis_33",
+    "name": "實地考察的技師",
+    "class": "復仇者",
+    "rarity": "銀",
+    "cost": 5,
+    "image": "assets/images/nemesis_33.png"
+  },
+
+{
+    "id": "nemesis_34",
+    "name": "破壞的荒野",
+    "class": "復仇者",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/nemesis_34.png"
+  },
+
+{
+    "id": "nemesis_35",
+    "name": "破壞的團結者",
+    "class": "復仇者",
+    "rarity": "金",
+    "cost": 6,
+    "image": "assets/images/nemesis_35.png"
+  },
+{
+    "id": "nemesis_36",
+    "name": "殲滅的歌聲",
+    "class": "復仇者",
+    "rarity": "金",
+    "cost": 2,
+    "image": "assets/images/nemesis_36.png"
+  },
+{
+    "id": "nemesis_37",
+    "name": "破壞的繼承者‧阿克西雅",
+    "class": "復仇者",
+    "rarity": "虹",
+    "cost": 3,
+    "image": "assets/images/nemesis_37.png"
+  },
+
+{
+    "id": "nemesis_38",
+    "name": "奏絕的顯現‧里榭娜",
+    "class": "復仇者",
+    "rarity": "虹",
+    "cost": 4,
+    "image": "assets/images/nemesis_38.png"
+  },
+  {
+    "id": "nemesis_39",
+    "name": "重振旗鼓的夜王‧翔",
+    "class": "復仇者",
+    "rarity": "銅",
+    "cost": 3,
+    "image": "assets/images/nemesis_39.png"
+  },
+
+{
+    "id": "nemesis_40",
+    "name": "爆燃的總長‧翼",
+    "class": "復仇者",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/nemesis_40.png"
+  },
+
+{
+    "id": "nemesis_41",
+    "name": "報恩的技師‧艾札克",
+    "class": "復仇者",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/nemesis_41.png"
+  },
+
+{
+    "id": "nemesis_42",
+    "name": "轟雷的閃狼‧尤斯堤斯",
+    "class": "復仇者",
+    "rarity": "銀",
+    "cost": 5,
+    "image": "assets/images/nemesis_42.png"
+  },
+
+{
+    "id": "nemesis_43",
+    "name": "嚴厲的教官‧伊露莎",
+    "class": "復仇者",
+    "rarity": "銀",
+    "cost": 7,
+    "image": "assets/images/nemesis_43.png"
+  },
+
+{
+    "id": "nemesis_44",
+    "name": "碎石烈槍",
+    "class": "復仇者",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/nemesis_44.png"
+  },
+
+{
+    "id": "nemesis_45",
+    "name": "思慕蒼空的歸還者‧卡希烏斯",
+    "class": "復仇者",
+    "rarity": "金",
+    "cost": 5,
+    "image": "assets/images/nemesis_45.png"
+  },
+
+{
+    "id": "nemesis_46",
+    "name": "混沌軍勢",
+    "class": "復仇者",
+    "rarity": "金",
+    "cost": 6,
+    "image": "assets/images/nemesis_46.png"
+  },
+
+{
+    "id": "nemesis_47",
+    "name": "光之攝理‧盧歐",
+    "class": "復仇者",
+    "rarity": "虹",
+    "cost": 5,
+    "image": "assets/images/nemesis_47.png"
+  },
+
+{
+    "id": "nemesis_48",
+    "name": "統世之王‧巴力巴布",
+    "class": "復仇者",
+    "rarity": "虹",
+    "cost": 9,
+    "image": "assets/images/nemesis_48.png"
+  },
+{
+    "id": "elf_29",
+    "name": "不弒的肯定者",
+    "class": "精靈",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/elf_29.png"
+  },
+  {
+    "id": "elf_30",
+    "name": "妖精劍的承襲者",
+    "class": "精靈",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/elf_30.png"
+  },
+  {
+    "id": "elf_31",
+    "name": "野性的猛襲",
+    "class": "精靈",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/elf_31.png"
+  },
+  {
+    "id": "elf_32",
+    "name": "不弒的祈禱者",
+    "class": "精靈",
+    "rarity": "銀",
+    "cost": 6,
+    "image": "assets/images/elf_32.png"
+  },
+  {
+    "id": "elf_33",
+    "name": "樹海的戰士",
+    "class": "精靈",
+    "rarity": "銀",
+    "cost": 4,
+    "image": "assets/images/elf_33.png"
+  },
+  {
+    "id": "elf_34",
+    "name": "不弒之鄉",
+    "class": "精靈",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/elf_34.png"
+  },
+  {
+    "id": "elf_35",
+    "name": "不弒的團結者",
+    "class": "精靈",
+    "rarity": "金",
+    "cost": 9,
+    "image": "assets/images/elf_35.png"
+  },
+  {
+    "id": "elf_36",
+    "name": "驅逐的死箭",
+    "class": "精靈",
+    "rarity": "金",
+    "cost": 1,
+    "image": "assets/images/elf_36.png"
+  },
+  {
+    "id": "elf_37",
+    "name": "不弒的繼承者‧庫璐璐",
+    "class": "精靈",
+    "rarity": "虹",
+    "cost": 4,
+    "image": "assets/images/elf_37.png"
+  },
+  {
+    "id": "elf_38",
+    "name": "絕命的顯現‧艾茲迪亞",
+    "class": "精靈",
+    "rarity": "虹",
+    "cost": 8,
+    "image": "assets/images/elf_38.png"
+  },
+  {
+    "id": "elf_39",
+    "name": "愛憎的舞者‧剛＆容",
+    "class": "精靈",
+    "rarity": "銅",
+    "cost": 7,
+    "image": "assets/images/elf_39.png"
+  },
+   {
+    "id": "elf_40",
+    "name": "可愛的花花甜心‧瑪娜麥莉",
+    "class": "精靈",
+    "rarity": "銅",
+    "cost": 4,
+    "image": "assets/images/elf_40.png"
+  },
+   {
+    "id": "elf_41",
+    "name": "帚星",
+    "class": "精靈",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/elf_41.png"
+  },
+   {
+    "id": "elf_42",
+    "name": "美妝少女‧庫蘿耶",
+    "class": "精靈",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/elf_42.png"
+  },
+     {
+    "id": "elf_43",
+    "name": "緋焰舞孃‧安絲璃雅",
+    "class": "精靈",
+    "rarity": "銀",
+    "cost": 5,
+    "image": "assets/images/elf_43.png"
+  },
+     {
+    "id": "elf_44",
+    "name": "綺羅星",
+    "class": "精靈",
+    "rarity": "銀",
+    "cost": 1,
+    "image": "assets/images/elf_44.png"
+  },
+   {
+    "id": "elf_45",
+    "name": "虹彩弓手‧庫比丹",
+    "class": "精靈",
+    "rarity": "金",
+    "cost": 4,
+    "image": "assets/images/elf_45.png"
+  },
+ {
+    "id": "elf_46",
+    "name": "精靈幻域",
+    "class": "精靈",
+    "rarity": "金",
+    "cost": 2,
+    "image": "assets/images/elf_46.png"
+  },
+  {
+    "id": "elf_47",
+    "name": "風之攝理‧伊維亞",
+    "class": "精靈",
+    "rarity": "虹",
+    "cost": 2,
+    "image": "assets/images/elf_47.png"
+  },
+    {
+    "id": "elf_48",
+    "name": "調和的舞者‧尤埃爾＆蘇希耶",
+    "class": "精靈",
+    "rarity": "虹",
+    "cost": 5,
+    "image": "assets/images/elf_48.png"
+  },
+  
+  {
+    "id": "Royal_020",
+    "name": "扳機女僕‧賽莉亞",
+    "class": "皇家",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/Royal_020.png"
+  },
+  {
+    "id": "Royal_021",
+    "name": "暗鬥的忍者大師",
+    "class": "皇家",
+    "rarity": "銅",
+    "cost": 5,
+    "image": "assets/images/Royal_021.png"
+  },
+  {
+    "id": "Royal_022",
+    "name": "達成協議",
+    "class": "皇家",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/Royal_022.png"
+  },
+  {
+    "id": "Royal_023",
+    "name": "果敢的副團長‧格爾德",
+    "class": "皇家",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/Royal_023.png"
+  },
+  {
+    "id": "Royal_024",
+    "name": "平庸騎士‧拉奇爾",
+    "class": "皇家",
+    "rarity": "銀",
+    "cost": 4,
+    "image": "assets/images/Royal_024.png"
+  },
+  {
+    "id": "Royal_025",
+    "name": "三將姬的亂擊",
+    "class": "皇家",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/Royal_025.png"
+  },
+  {
+    "id": "Royal_026",
+    "name": "瑰劍公主‧蘿婕",
+    "class": "皇家",
+    "rarity": "金",
+    "cost": 3,
+    "image": "assets/images/Royal_026.png"
+  },
+  {
+    "id": "Royal_027",
+    "name": "休憩的王女‧普莉姆",
+    "class": "皇家",
+    "rarity": "金",
+    "cost": 2,
+    "image": "assets/images/Royal_027.png"
+  },
+  {
+    "id": "Royal_028",
+    "name": "靜寂的弒滅者‧吉露塔利亞",
+    "class": "皇家",
+    "rarity": "虹",
+    "cost": 6,
+    "image": "assets/images/Royal_028.png"
+  },
+  {
+    "id": "Royal_029",
+    "name": "雷維翁超凡者‧尤里烏斯",
+    "class": "皇家",
+    "rarity": "虹",
+    "cost": 8,
+    "image": "assets/images/Royal_029.png"
+  },
+   
+  {
+    "id": "Royal_030",
+    "name": "篡奪的肯定者",
+    "class": "皇家",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/Royal_030.png"
+  },
+  {
+    "id": "Royal_031",
+    "name": "劍聖的同胞",
+    "class": "皇家",
+    "rarity": "銅",
+    "cost": 6,
+    "image": "assets/images/Royal_031.png"
+  },
+  {
+    "id": "Royal_032",
+    "name": "戰盾強擊",
+    "class": "皇家",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/Royal_032.png"
+  },
+  {
+    "id": "Royal_033",
+    "name": "篡奪的祈禱者",
+    "class": "皇家",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/Royal_033.png"
+  },
+  {
+    "id": "Royal_034",
+    "name": "開朗的偵察兵",
+    "class": "皇家",
+    "rarity": "銀",
+    "cost": 5,
+    "image": "assets/images/Royal_034.png"
+  },
+  {
+    "id": "Royal_035",
+    "name": "篡奪的據點",
+    "class": "皇家",
+    "rarity": "銀",
+    "cost": 1,
+    "image": "assets/images/Royal_035.png"
+  },
+  {
+    "id": "Royal_036",
+    "name": "篡奪的團結者",
+    "class": "皇家",
+    "rarity": "金",
+    "cost": 4,
+    "image": "assets/images/Royal_036.png"
+  },
+  {
+    "id": "Royal_037",
+    "name": "奉還的劍閃",
+    "class": "皇家",
+    "rarity": "金",
+    "cost": 1,
+    "image": "assets/images/Royal_037.png"
+  },
+  {
+    "id": "Royal_038",
+    "name": "靜篡奪的繼承者‧辛士萊茲",
+    "class": "皇家",
+    "rarity": "虹",
+    "cost": 6,
+    "image": "assets/images/Royal_038.png"
+  },
+  {
+    "id": "Royal_039",
+    "name": "空絕的顯現‧歐克托莉斯",
+    "class": "皇家",
+    "rarity": "虹",
+    "cost": 3,
+    "image": "assets/images/Royal_039.png"
+  },
+
+    {
+    "id": "Royal_040",
+    "name": "信念的踢擊‧蘭德爾",
+    "class": "皇家",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/Royal_040.png"
+  },
+  {
+    "id": "Royal_041",
+    "name": "決意的輝龍‧亞瑟",
+    "class": "皇家",
+    "rarity": "銅",
+    "cost": 3,
+    "image": "assets/images/Royal_041.png"
+  },
+  {
+    "id": "Royal_042",
+    "name": "迷惘的獅子‧莫德雷德",
+    "class": "皇家",
+    "rarity": "銅",
+    "cost": 3,
+    "image": "assets/images/Royal_042.png"
+  },
+  {
+    "id": "Royal_043",
+    "name": "冰心霸王‧阿格羅瓦爾",
+    "class": "皇家",
+    "rarity": "銀",
+    "cost": 6,
+    "image": "assets/images/Royal_043.png"
+  },
+  {
+    "id": "Royal_044",
+    "name": "沸騰的鬥志‧費沙",
+    "class": "皇家",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/Royal_044.png"
+  },
+  {
+    "id": "Royal_045",
+    "name": "怒放的肌肉‧菲歐里",
+    "class": "皇家",
+    "rarity": "銀",
+    "cost": 4,
+    "image": "assets/images/Royal_045.png"
+  },
+  {
+    "id": "Royal_046",
+    "name": "真王之刃‧黃金騎士",
+    "class": "皇家",
+    "rarity": "金",
+    "cost": 7,
+    "image": "assets/images/Royal_046.png"
+  },
+  {
+    "id": "Royal_047",
+    "name": "英勇騎士的群集",
+    "class": "皇家",
+    "rarity": "金",
+    "cost": 5,
+    "image": "assets/images/Royal_047.png"
+  },
+  {
+    "id": "Royal_048",
+    "name": "鮮紅與群青‧瑟塔＆貝雅特麗絲",
+    "class": "皇家",
+    "rarity": "虹",
+    "cost": 4,
+    "image": "assets/images/Royal_048.png"
+  },
+  {
+    "id": "Royal_049",
+    "name": "十天眾頭目‧席耶提",
+    "class": "皇家",
+    "rarity": "虹",
+    "cost": 4,
+    "image": "assets/images/Royal_049.png"
+  },
+
+
+{
+    "id": "dragon_0",
+    "name": "雲海龍騎兵",
+    "class": "龍族",
+    "rarity": "銅",
+    "cost": 8,
+    "image": "assets/images/dragon_0.png"
+  },
+
+{
+    "id": "dragon_1",
+    "name": "海溝大劍龍",
+    "class": "龍族",
+    "rarity": "銅",
+    "cost": 5,
+    "image": "assets/images/dragon_1.png"
+  },
+
+{
+    "id": "dragon_2",
+    "name": "新手獵龍人",
+    "class": "龍族",
+    "rarity": "銅",
+    "cost": 4,
+    "image": "assets/images/dragon_0.png"
+  },
+
+{
+    "id": "dragon_3",
+    "name": "育龍少女",
+    "class": "龍族",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/dragon_3.png"
+  },
+
+{
+    "id": "dragon_4",
+    "name": "白鱗聖使",
+    "class": "龍族",
+    "rarity": "銅",
+    "cost": 4,
+    "image": "assets/images/dragon_4.png"
+  },
+
+{
+    "id": "dragon_5",
+    "name": "災禍的吐息",
+    "class": "龍族",
+    "rarity": "銅",
+    "cost": 6,
+    "image": "assets/images/dragon_5.png"
+  },
+
+{
+    "id": "dragon_6",
+    "name": "煌牙義勇‧基德",
+    "class": "龍族",
+    "rarity": "銀",
+    "cost": 6,
+    "image": "assets/images/dragon_6.png"
+  },
+
+{
+    "id": "dragon_7",
+    "name": "追風者‧葉花",
+    "class": "龍族",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/dragon_7.png"
+  },
+
+{
+    "id": "dragon_8",
+    "name": "詠風者‧傑魯",
+    "class": "龍族",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/dragon_8.png"
+  },
+
+{
+    "id": "dragon_9",
+    "name": "美豔龍人‧瑪利翁",
+    "class": "龍族",
+    "rarity": "銀",
+    "cost": 4,
+    "image": "assets/images/dragon_9.png"
+  },
+
+{
+    "id": "dragon_10",
+    "name": "榮弦的奏樂",
+    "class": "龍族",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/dragon_10.png"
+  },
+
+{
+    "id": "dragon_11",
+    "name": "再臨之創世龍",
+    "class": "龍族",
+    "rarity": "金",
+    "cost": 10,
+    "image": "assets/images/dragon_11.png"
+  },
+
+{
+    "id": "dragon_12",
+    "name": "榮弦天宮‧琉芙",
+    "class": "龍族",
+    "rarity": "金",
+    "cost": 3,
+    "image": "assets/images/dragon_12.png"
+  },
+
+{
+    "id": "dragon_13",
+    "name": "駭浪龍騎士‧薩哈爾",
+    "class": "龍族",
+    "rarity": "金",
+    "cost": 6,
+    "image": "assets/images/dragon_13.png"
+  },
+
+{
+    "id": "dragon_14",
+    "name": "薄暮闇龍",
+    "class": "龍族",
+    "rarity": "金",
+    "cost": 9,
+    "image": "assets/images/dragon_14.png"
+  },
+
+{
+    "id": "dragon_15",
+    "name": "乙姬的寶扇",
+    "class": "龍族",
+    "rarity": "金",
+    "cost": 1,
+    "image": "assets/images/dragon_15.png"
+  },
+
+{
+    "id": "dragon_16",
+    "name": "灼熱的弒滅者‧珀德奈特",
+    "class": "龍族",
+    "rarity": "虹",
+    "cost": 7,
+    "image": "assets/images/dragon_16.png"
+  },
+
+{
+    "id": "dragon_17",
+    "name": "霸道龍翼‧法露特",
+    "class": "龍族",
+    "rarity": "虹",
+    "cost": 6,
+    "image": "assets/images/dragon_17.png"
+  },
+
+{
+    "id": "dragon_18",
+    "name": "龍人演義‧臥龍",
+    "class": "龍族",
+    "rarity": "虹",
+    "cost": 8,
+    "image": "assets/images/dragon_18.png"
+  },
+  {
+    "id": "dragon_19",
+    "name": "呵護的智龍",
+    "class": "龍族",
+    "rarity": "銅",
+    "cost": 10,
+    "image": "assets/images/dragon_19.png"
+  },
+{
+    "id": "dragon_20",
+    "name": "飛躍的銀白幼龍",
+    "class": "龍族",
+    "rarity": "銅",
+    "cost": 1,
+    "image": "assets/images/dragon_20.png"
+  },
+
+{
+    "id": "dragon_21",
+    "name": "虎鯨的呼喚",
+    "class": "龍族",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/dragon_21.png"
+  },
+
+{
+    "id": "dragon_22",
+    "name": "背負宿願的龍人公主",
+    "class": "龍族",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/dragon_22.png"
+  },
+
+{
+    "id": "dragon_23",
+    "name": "身經百戰的魚人",
+    "class": "龍族",
+    "rarity": "銀",
+    "cost": 5,
+    "image": "assets/images/dragon_23.png"
+  },
+
+{
+    "id": "dragon_24",
+    "name": "炎龍之劍",
+    "class": "龍族",
+    "rarity": "銀",
+    "cost": 1,
+    "image": "assets/images/dragon_24.png"
+  },
+
+{
+    "id": "dragon_25",
+    "name": "蒼海的制裁‧尼普頓",
+    "class": "龍族",
+    "rarity": "金",
+    "cost": 7,
+    "image": "assets/images/dragon_25.png"
+  },
+
+{
+    "id": "dragon_26",
+    "name": "龍魂合擊",
+    "class": "龍族",
+    "rarity": "金",
+    "cost": 6,
+    "image": "assets/images/dragon_26.png"
+  },
+
+{
+    "id": "dragon_27",
+    "name": "銀冰龍少女‧菲琳",
+    "class": "龍族",
+    "rarity": "虹",
+    "cost": 2,
+    "image": "assets/images/dragon_27.png"
+  },
+
+{
+    "id": "dragon_28",
+    "name": "絢爛鳳凰‧小鳳!!!",
+    "class": "龍族",
+    "rarity": "虹",
+    "cost": 8,
+    "image": "assets/images/dragon_28.png"
+  },
+  {
+    "id": "dragon_29",
+    "name": "侮蔑的肯定者",
+    "class": "龍族",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/dragon_29.png"
+  },
+
+{
+    "id": "dragon_30",
+    "name": "舞冰的龍人",
+    "class": "龍族",
+    "rarity": "銅",
+    "cost": 6,
+    "image": "assets/images/dragon_30.png"
+  },
+
+{
+    "id": "dragon_31",
+    "name": "疾雷之怒",
+    "class": "龍族",
+    "rarity": "銅",
+    "cost": 3,
+    "image": "assets/images/dragon_31.png"
+  },
+
+{
+    "id": "dragon_32",
+    "name": "侮蔑的祈禱者",
+    "class": "龍族",
+    "rarity": "銀",
+    "cost": 5,
+    "image": "assets/images/dragon_32.png"
+  },
+
+{
+    "id": "dragon_33",
+    "name": "海洋騎手",
+    "class": "龍族",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/dragon_33.png"
+  },
+
+{
+    "id": "dragon_34",
+    "name": "侮蔑之國",
+    "class": "龍族",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/dragon_34.png"
+  },
+
+{
+    "id": "dragon_35",
+    "name": "侮蔑的團結者",
+    "class": "龍族",
+    "rarity": "金",
+    "cost": 6,
+    "image": "assets/images/dragon_35.png"
+  },
+
+{
+    "id": "dragon_36",
+    "name": "蒼炎的暴威",
+    "class": "龍族",
+    "rarity": "金",
+    "cost": 1,
+    "image": "assets/images/dragon_36.png"
+  },
+
+{
+    "id": "dragon_37",
+    "name": "侮蔑的繼承者‧亞喬拉斐特",
+    "class": "龍族",
+    "rarity": "虹",
+    "cost": 9,
+    "image": "assets/images/dragon_37.png"
+  },
+
+{
+    "id": "dragon_38",
+    "name": "烈絕的顯現‧嘉魯蜜兒",
+    "class": "龍族",
+    "rarity": "虹",
+    "cost": 5,
+    "image": "assets/images/dragon_38.png"
+  },
+  {
+    "id": "dragon_39",
+    "name": "大海的追尋者‧喬爾",
+    "class": "龍族",
+    "rarity": "銅",
+    "cost": 3,
+    "image": "assets/images/dragon_39.png"
+  },
+
+{
+    "id": "dragon_40",
+    "name": "梅格的摯友‧瑪莉莉",
+    "class": "龍族",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/dragon_40.png"
+  },
+
+{
+    "id": "dragon_41",
+    "name": "馳騁新月浪",
+    "class": "龍族",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/dragon_41.png"
+  },
+
+{
+    "id": "dragon_42",
+    "name": "凍結的宿命‧依舒宓爾",
+    "class": "龍族",
+    "rarity": "銀",
+    "cost": 4,
+    "image": "assets/images/dragon_42.png"
+  },
+
+{
+    "id": "dragon_43",
+    "name": "純樸鋼體‧無限",
+    "class": "龍族",
+    "rarity": "銀",
+    "cost": 8,
+    "image": "assets/images/dragon_43.png"
+  },
+
+{
+    "id": "dragon_44",
+    "name": "愛情無限‧天女爆彈擊",
+    "class": "龍族",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/dragon_44.png"
+  },
+
+{
+    "id": "dragon_45",
+    "name": "隨處可見的平凡女孩‧梅格",
+    "class": "龍族",
+    "rarity": "金",
+    "cost": 3,
+    "image": "assets/images/dragon_45.png"
+  },
+
+{
+    "id": "dragon_46",
+    "name": "吸收星晶獸",
+    "class": "龍族",
+    "rarity": "金",
+    "cost": 5,
+    "image": "assets/images/dragon_46.png"
+  },
+
+{
+    "id": "dragon_47",
+    "name": "炎之攝理‧維爾納斯",
+    "class": "龍族",
+    "rarity": "虹",
+    "cost": 7,
+    "image": "assets/images/dragon_47.png"
+  },
+
+{
+    "id": "dragon_48",
+    "name": "世界的同伴‧佐伊",
+    "class": "龍族",
+    "rarity": "虹",
+    "cost": 5,
+    "image": "assets/images/dragon_48.png"
+  },
+
+
+    {
+    "id": "Witch_020",
+    "name": "憧憬的魔女‧梅薇",
+    "class": "巫師",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/Witch_020.png"
+  },
+
+{
+    "id": "Witch_021",
+    "name": "魔導圖書館員",
+    "class": "巫師",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/Witch_021.png"
+  },
+
+{
+    "id": "Witch_022",
+    "name": "冰錐穿擊",
+    "class": "巫師",
+    "rarity": "銅",
+    "cost": 4,
+    "image": "assets/images/Witch_022.png"
+  },
+
+{
+    "id": "Witch_023",
+    "name": "否定的詠唱‧芭賽特",
+    "class": "巫師",
+    "rarity": "銀",
+    "cost": 5,
+    "image": "assets/images/Witch_023.png"
+  },
+
+{
+    "id": "Witch_024",
+    "name": "調香魔法師",
+    "class": "巫師",
+    "rarity": "銀",
+    "cost": 4,
+    "image": "assets/images/Witch_024.png"
+  },
+
+{
+    "id": "Witch_025",
+    "name": "混沌暴炎",
+    "class": "巫師",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/Witch_025.png"
+  },
+
+{
+    "id": "Witch_026",
+    "name": "馬納歷亞劍士‧歐文",
+    "class": "巫師",
+    "rarity": "金",
+    "cost": 3,
+    "image": "assets/images/Witch_026.png"
+  },
+
+{
+    "id": "Witch_027",
+    "name": "帕梅拉的舞蹈",
+    "class": "巫師",
+    "rarity": "金",
+    "cost": 2,
+    "image": "assets/images/Witch_027.png"
+  },
+
+{
+    "id": "Witch_028",
+    "name": "暴食的弒滅者‧菈菈安瑟姆",
+    "class": "巫師",
+    "rarity": "虹",
+    "cost": 8,
+    "image": "assets/images/Witch_028.png"
+  },
+
+{
+    "id": "Witch_029",
+    "name": "堅定的鍊金術師‧諾曼",
+    "class": "巫師",
+    "rarity": "虹",
+    "cost": 6,
+    "image": "assets/images/Witch_029.png"
+  },
+
+  
+    {
+    "id": "Witch_030",
+    "name": "真實的肯定者",
+    "class": "巫師",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/Witch_030.png"
+  },
+
+{
+    "id": "Witch_031",
+    "name": "五行的修行者",
+    "class": "巫師",
+    "rarity": "銅",
+    "cost": 4,
+    "image": "assets/images/Witch_031.png"
+  },
+
+{
+    "id": "Witch_032",
+    "name": "水晶的預視",
+    "class": "巫師",
+    "rarity": "銅",
+    "cost": 4,
+    "image": "assets/images/Witch_032.png"
+  },
+
+{
+    "id": "Witch_033",
+    "name": "真實的祈禱者",
+    "class": "巫師",
+    "rarity": "銀",
+    "cost": 5,
+    "image": "assets/images/Witch_033.png"
+  },
+
+{
+    "id": "Witch_034",
+    "name": "真實的研究設施",
+    "class": "巫師",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/Witch_034.png"
+  },
+
+{
+    "id": "Witch_035",
+    "name": "雙重創造",
+    "class": "巫師",
+    "rarity": "銀",
+    "cost": 4,
+    "image": "assets/images/Witch_035.png"
+  },
+
+{
+    "id": "Witch_036",
+    "name": "真實的團結者",
+    "class": "巫師",
+    "rarity": "金",
+    "cost": 3,
+    "image": "assets/images/Witch_036.png"
+  },
+
+{
+    "id": "Witch_037",
+    "name": "虛偽的術式",
+    "class": "巫師",
+    "rarity": "金",
+    "cost": 2,
+    "image": "assets/images/Witch_037.png"
+  },
+
+{
+    "id": "Witch_038",
+    "name": "真實的繼承者‧薇赫里雅",
+    "class": "巫師",
+    "rarity": "虹",
+    "cost": 2,
+    "image": "assets/images/Witch_038.png"
+  },
+
+{
+    "id": "Witch_039",
+    "name": "絕盡的顯現‧萊歐",
+    "class": "巫師",
+    "rarity": "虹",
+    "cost": 9,
+    "image": "assets/images/Witch_039.png"
+  },
+
+
+     {
+    "id": "Witch_040",
+    "name": "不可思議的哲學家‧費洛索菲亞",
+    "class": "巫師",
+    "rarity": "銅",
+    "cost": 3,
+    "image": "assets/images/Witch_040.png"
+  },
+
+{
+    "id": "Witch_041",
+    "name": "遊歷四方的家庭教師‧蘇菲拉瑪",
+    "class": "巫師",
+    "rarity": "銅",
+    "cost": 1,
+    "image": "assets/images/Witch_041.png"
+  },
+
+{
+    "id": "Witch_042",
+    "name": "符文儀式",
+    "class": "巫師",
+    "rarity": "銅",
+    "cost": 7,
+    "image": "assets/images/Witch_042.png"
+  },
+
+{
+    "id": "Witch_043",
+    "name": "復仇的占卜師‧艾賽克萊因",
+    "class": "巫師",
+    "rarity": "銀",
+    "cost": 6,
+    "image": "assets/images/Witch_043.png"
+  },
+
+{
+    "id": "Witch_044",
+    "name": "艱辛的旅程‧米蕾羽＆麗婕特",
+    "class": "巫師",
+    "rarity": "銀",
+    "cost": 5,
+    "image": "assets/images/Witch_044.png"
+  },
+
+{
+    "id": "Witch_045",
+    "name": "突破束縛",
+    "class": "巫師",
+    "rarity": "銀",
+    "cost": 4,
+    "image": "assets/images/Witch_045.png"
+  },
+
+{
+    "id": "Witch_046",
+    "name": "懷舊的送火‧艾爾蒙特",
+    "class": "巫師",
+    "rarity": "金",
+    "cost": 3,
+    "image": "assets/images/Witch_046.png"
+  },
+
+{
+    "id": "Witch_047",
+    "name": "鍊金爆炎",
+    "class": "巫師",
+    "rarity": "金",
+    "cost": 2,
+    "image": "assets/images/Witch_047.png"
+  },
+
+{
+    "id": "Witch_048",
+    "name": "水之攝理‧瓦姆杜斯",
+    "class": "巫師",
+    "rarity": "虹",
+    "cost": 2,
+    "image": "assets/images/Witch_048.png"
+  },
+
+{
+    "id": "Witch_049",
+    "name": "天才美少女鍊金術師‧卡莉歐斯托蘿",
+    "class": "巫師",
+    "rarity": "虹",
+    "cost": 4,
+    "image": "assets/images/Witch_049.png"
+  },
+  
+
+     {
+    "id": "Bishop_020",
+    "name": "猛碎的聖職者",
+    "class": "主教",
+    "rarity": "銅",
+    "cost": 3,
+    "image": "assets/images/Bishop_020.png"
+  },
+
+{
+    "id": "Bishop_021",
+    "name": "惡意的神諭‧達姆斯",
+    "class": "主教",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/Bishop_021.png"
+  },
+
+{
+    "id": "Bishop_022",
+    "name": "輝光香爐",
+    "class": "主教",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/Bishop_022.png"
+  },
+
+{
+    "id": "Bishop_023",
+    "name": "彈雨驅魔師‧珂蕾特",
+    "class": "主教",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/Bishop_023.png"
+  },
+
+{
+    "id": "Bishop_024",
+    "name": "潔癖的審判者",
+    "class": "主教",
+    "rarity": "銀",
+    "cost": 5,
+    "image": "assets/images/Bishop_024.png"
+  },
+
+{
+    "id": "Bishop_025",
+    "name": "神聖防禦",
+    "class": "主教",
+    "rarity": "銀",
+    "cost": 1,
+    "image": "assets/images/Bishop_025.png"
+  },
+
+{
+    "id": "Bishop_026",
+    "name": "速斷之刃‧阿尼耶絲",
+    "class": "主教",
+    "rarity": "金",
+    "cost": 5,
+    "image": "assets/images/Bishop_026.png"
+  },
+
+{
+    "id": "Bishop_027",
+    "name": "癲狂之恩寵",
+    "class": "主教",
+    "rarity": "金",
+    "cost": 4,
+    "image": "assets/images/Bishop_027.png"
+  },
+
+{
+    "id": "Bishop_028",
+    "name": "天之守護神‧埃忒耳",
+    "class": "主教",
+    "rarity": "虹",
+    "cost": 7,
+    "image": "assets/images/Bishop_028.png"
+  },
+
+{
+    "id": "Bishop_029",
+    "name": "哀泣的聖騎士‧維爾伯特",
+    "class": "主教",
+    "rarity": "虹",
+    "cost": 6,
+    "image": "assets/images/Bishop_029.png"
+  },
+  
+
+
+     {
+    "id": "Bishop_030",
+    "name": "安息的肯定者",
+    "class": "主教",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/Bishop_030.png"
+  },
+
+{
+    "id": "Bishop_031",
+    "name": "聖騎士的團員",
+    "class": "主教",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/Bishop_031.png"
+  },
+
+{
+    "id": "Bishop_032",
+    "name": "聖潔閃光",
+    "class": "主教",
+    "rarity": "銅",
+    "cost": 4,
+    "image": "assets/images/Bishop_032.png"
+  },
+
+{
+    "id": "Bishop_033",
+    "name": "安息的祈禱者",
+    "class": "主教",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/Bishop_033.png"
+  },
+
+{
+    "id": "Bishop_034",
+    "name": "安息的神殿",
+    "class": "主教",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/Bishop_034.png"
+  },
+
+{
+    "id": "Bishop_035",
+    "name": "展翼獅像",
+    "class": "主教",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/Bishop_035.png"
+  },
+
+{
+    "id": "Bishop_036",
+    "name": "安息的團結者",
+    "class": "主教",
+    "rarity": "金",
+    "cost": 5,
+    "image": "assets/images/Bishop_036.png"
+  },
+
+{
+    "id": "Bishop_037",
+    "name": "閃耀的絕念",
+    "class": "主教",
+    "rarity": "金",
+    "cost": 4,
+    "image": "assets/images/Bishop_037.png"
+  },
+
+{
+    "id": "Bishop_038",
+    "name": "安息的繼承者‧希彌佳",
+    "class": "主教",
+    "rarity": "虹",
+    "cost": 6,
+    "image": "assets/images/Bishop_038.png"
+  },
+
+{
+    "id": "Bishop_039",
+    "name": "絕望的顯現‧瑪文",
+    "class": "主教",
+    "rarity": "虹",
+    "cost": 4,
+    "image": "assets/images/Bishop_039.png"
+  },
+  
+{
+    "id": "Bishop_040",
+    "name": "英雄幻視‧特爾",
+    "class": "主教",
+    "rarity": "銅",
+    "cost": 3,
+    "image": "assets/images/Bishop_040.png"
+  },
+
+{
+    "id": "Bishop_041",
+    "name": "清廉的修道女‧拉姆瑞塔",
+    "class": "主教",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/Bishop_041.png"
+  },
+
+{
+    "id": "Bishop_042",
+    "name": "利利耶的撩動",
+    "class": "主教",
+    "rarity": "銅",
+    "cost": 0,
+    "image": "assets/images/Bishop_042.png"
+  },
+
+{
+    "id": "Bishop_043",
+    "name": "砂神的巫女‧莎拉",
+    "class": "主教",
+    "rarity": "銀",
+    "cost": 4,
+    "image": "assets/images/Bishop_043.png"
+  },
+
+{
+    "id": "Bishop_044",
+    "name": "賽恩教的僧侶‧蘇菲雅",
+    "class": "主教",
+    "rarity": "銀",
+    "cost": 4,
+    "image": "assets/images/Bishop_044.png"
+  },
+
+{
+    "id": "Bishop_045",
+    "name": "邁向蒼空之艇",
+    "class": "主教",
+    "rarity": "銀",
+    "cost": 4,
+    "image": "assets/images/Bishop_045.png"
+  },
+
+{
+    "id": "Bishop_046",
+    "name": "攜持魔杖的外科醫生‧媞可",
+    "class": "主教",
+    "rarity": "金",
+    "cost": 1,
+    "image": "assets/images/Bishop_046.png"
+  },
+
+{
+    "id": "Bishop_047",
+    "name": "蕾菲爾的寶石",
+    "class": "主教",
+    "rarity": "金",
+    "cost": 3,
+    "image": "assets/images/Bishop_047.png"
+  },
+
+{
+    "id": "Bishop_048",
+    "name": "土之攝理‧嘉列翁",
+    "class": "主教",
+    "rarity": "虹",
+    "cost": 3,
+    "image": "assets/images/Bishop_048.png"
+  },
+
+{
+    "id": "Bishop_049",
+    "name": "威儀的星晶騎士‧薇拉",
+    "class": "主教",
+    "rarity": "虹",
+    "cost": 8,
+    "image": "assets/images/Bishop_049.png"
+  },
+  {
+    "id": "Nightmare_020",
+    "name": "白銀槍彈‧雷文",
+    "class": "夜魔",
+    "rarity": "銅",
+    "cost": 5,
+    "image": "assets/images/Nightmare_020.png"
+  },
+
+{
+    "id": "Nightmare_021",
+    "name": "怨恨的栽培者",
+    "class": "夜魔",
+    "rarity": "銅",
+    "cost": 1,
+    "image": "assets/images/Nightmare_021.png"
+  },
+
+{
+    "id": "Nightmare_022",
+    "name": "詛咒派對",
+    "class": "夜魔",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/Nightmare_022.png"
+  },
+
+{
+    "id": "Nightmare_023",
+    "name": "狂風之翼‧圮尤菈",
+    "class": "夜魔",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/Nightmare_023.png"
+  },
+
+{
+    "id": "Nightmare_024",
+    "name": "屍骸士兵",
+    "class": "夜魔",
+    "rarity": "銀",
+    "cost": 6,
+    "image": "assets/images/Nightmare_024.png"
+  },
+
+{
+    "id": "Nightmare_025",
+    "name": "役使蝙蝠",
+    "class": "夜魔",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/Nightmare_025.png"
+  },
+
+{
+    "id": "Nightmare_026",
+    "name": "殘虐戰爭‧蘿拉",
+    "class": "夜魔",
+    "rarity": "金",
+    "cost": 3,
+    "image": "assets/images/Nightmare_026.png"
+  },
+
+{
+    "id": "Nightmare_027",
+    "name": "暮夜魔將‧艾瑟菈",
+    "class": "夜魔",
+    "rarity": "金",
+    "cost": 4,
+    "image": "assets/images/Nightmare_027.png"
+  },
+
+{
+    "id": "Nightmare_028",
+    "name": "雙禍夜行‧吟雪＆夕月",
+    "class": "夜魔",
+    "rarity": "虹",
+    "cost": 9,
+    "image": "assets/images/Nightmare_028.png"
+  },
+
+{
+    "id": "Nightmare_029",
+    "name": "流墮的冥河‧凱倫",
+    "class": "夜魔",
+    "rarity": "虹",
+    "cost": 5,
+    "image": "assets/images/Nightmare_029.png"
+  },
+  {
+    "id": "Nightmare_030",
+    "name": "混融的肯定者",
+    "class": "夜魔",
+    "rarity": "銅",
+    "cost": 3,
+    "image": "assets/images/Nightmare_030.png"
+  },
+
+{
+    "id": "Nightmare_031",
+    "name": "泡沫的鬼姬",
+    "class": "夜魔",
+    "rarity": "銅",
+    "cost": 8,
+    "image": "assets/images/Nightmare_031.png"
+  },
+
+{
+    "id": "Nightmare_032",
+    "name": "暴虐的行進",
+    "class": "夜魔",
+    "rarity": "銅",
+    "cost": 4,
+    "image": "assets/images/Nightmare_032.png"
+  },
+
+{
+    "id": "Nightmare_033",
+    "name": "混融的祈禱者",
+    "class": "夜魔",
+    "rarity": "銀",
+    "cost": 4,
+    "image": "assets/images/Nightmare_033.png"
+  },
+
+{
+    "id": "Nightmare_034",
+    "name": "新任護墓者",
+    "class": "夜魔",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/Nightmare_034.png"
+  },
+
+{
+    "id": "Nightmare_035",
+    "name": "混融之城",
+    "class": "夜魔",
+    "rarity": "銀",
+    "cost": 2,
+    "image": "assets/images/Nightmare_035.png"
+  },
+
+{
+    "id": "Nightmare_036",
+    "name": "混融的團結者",
+    "class": "夜魔",
+    "rarity": "金",
+    "cost": 5,
+    "image": "assets/images/Nightmare_036.png"
+  },
+
+{
+    "id": "Nightmare_037",
+    "name": "叫喚與憎惡",
+    "class": "夜魔",
+    "rarity": "金",
+    "cost": 4,
+    "image": "assets/images/Nightmare_037.png"
+  },
+
+{
+    "id": "Nightmare_038",
+    "name": "混融的繼承者‧夏姆‧娜可亞",
+    "class": "夜魔",
+    "rarity": "虹",
+    "cost": 2,
+    "image": "assets/images/Nightmare_038.png"
+  },
+
+{
+    "id": "Nightmare_039",
+    "name": "絕叫與愛絕的顯現‧魯魯納伊＆瓦娜蕾格",
+    "class": "夜魔",
+    "rarity": "虹",
+    "cost": 7,
+    "image": "assets/images/Nightmare_039.png"
+  },
+  {
+    "id": "Nightmare_040",
+    "name": "憧憬之鐵鎚‧阿爾梅達",
+    "class": "夜魔",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/Nightmare_40.png"
+  },
+
+{
+    "id": "Nightmare_041",
+    "name": "不屈的銳刃‧巴薩拉加",
+    "class": "夜魔",
+    "rarity": "銅",
+    "cost": 6,
+    "image": "assets/images/Nightmare_41.png"
+  },
+
+{
+    "id": "Nightmare_042",
+    "name": "異變銳擊",
+    "class": "夜魔",
+    "rarity": "銅",
+    "cost": 2,
+    "image": "assets/images/Nightmare_42.png"
+  },
+
+{
+    "id": "Nightmare_043",
+    "name": "霸空武神‧哪吒",
+    "class": "夜魔",
+    "rarity": "銀",
+    "cost": 6,
+    "image": "assets/images/Nightmare_43.png"
+  },
+
+{
+    "id": "Nightmare_044",
+    "name": "愛之旅人‧薩堤爾",
+    "class": "夜魔",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/Nightmare_44.png"
+  },
+
+{
+    "id": "Nightmare_045",
+    "name": "元素共鳴‧巴力",
+    "class": "夜魔",
+    "rarity": "銀",
+    "cost": 3,
+    "image": "assets/images/Nightmare_45.png"
+  },
+
+{
+    "id": "Nightmare_046",
+    "name": "生滅的技巧‧涅槃",
+    "class": "夜魔",
+    "rarity": "金",
+    "cost": 6,
+    "image": "assets/images/Nightmare_46.png"
+  },
+
+{
+    "id": "Nightmare_047",
+    "name": "腐敗侵襲",
+    "class": "夜魔",
+    "rarity": "金",
+    "cost": 5,
+    "image": "assets/images/Nightmare_47.png"
+  },
+
+{
+    "id": "Nightmare_048",
+    "name": "闇之攝理‧菲迪耶爾",
+    "class": "夜魔",
+    "rarity": "虹",
+    "cost": 7,
+    "image": "assets/images/Nightmare_48.png"
+  },
+
+{
+    "id": "Nightmare_049",
+    "name": "狡智的墮天司‧彼列",
+    "class": "夜魔",
+    "rarity": "虹",
+    "cost": 7,
+    "image": "assets/images/Nightmare_49.png"
+  }
+]

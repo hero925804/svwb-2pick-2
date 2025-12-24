@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shadowverse 2Pick 模擬器</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <header>
+            <h1>Shadowverse: World Beyond 2Pick</h1>
+            <div id="info-bar" class="hidden">
+                <span class="info-item">職業：<strong id="player-class">-</strong></span>
+                <span class="info-item">重抽：<strong id="reroll-count">3</strong></span>
+                <span class="info-item">進度：<strong id="progress">0</strong> / 40</span>
+            </div>
+        </header>
+
+        <main id="game-view">
+            <div id="loading">載入中...</div>
+        </main>
+
+        <aside id="sidebar">
+            <div class="sidebar-fixed-top">
+                <h3>Cost 曲線</h3>
+                <div id="mana-curve">
+                    </div>
+            </div>
+
+            <div class="sidebar-scroll-area">
+                <h3>目前牌組 (<span id="deck-count">0</span>)</h3>
+                <div id="deck-preview">
+                    </div>
+            </div>
+        </aside>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
