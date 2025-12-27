@@ -1941,7 +1941,7 @@
     "class": "龍族",
     "rarity": "銅",
     "cost": 4,
-    "image": "assets/images/dragon_0.png"
+    "image": "assets/images/dragon_2.png"
   },
 
 {
@@ -3166,4 +3166,5 @@
     "cost": 7,
     "image": "assets/images/Nightmare_49.png"
   }
+
 ]
